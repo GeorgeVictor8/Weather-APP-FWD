@@ -93,5 +93,5 @@ Resources I found helpful and would like to give credit to.
 
 
 
-<!-- MARKDOWN LINKS & IMAGES --->
+<!--- MARKDOWN LINKS & IMAGES --->
 [product-screenshot]: Images/screenshot.png
