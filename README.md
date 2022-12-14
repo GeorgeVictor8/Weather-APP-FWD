@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](Images/screenshot.png)
+![Product Name Screen Shot](Images/screenshot.png)
 
 Project's Functionality:
 
@@ -76,7 +76,7 @@ Project's Functionality:
 
 George Victor - georgevic47@gmail.com
 
-Project Link: [https://github.com/GeorgeVictor8/Landing-Page-FWD-initiative](https://github.com/GeorgeVictor8/Landing-Page
+Project Link: [https://github.com/GeorgeVictor8/Landing-Page-FWD-initiative](https://github.com/GeorgeVictor8/Weather-APP-FWD)
 
 
 <!-- ACKNOWLEDGMENTS -->
