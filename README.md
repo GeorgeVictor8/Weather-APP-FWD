@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](Images/screenshot.png)
+![product-screenshot](Images/screenshot.png)
 
 Project's Functionality:
 
